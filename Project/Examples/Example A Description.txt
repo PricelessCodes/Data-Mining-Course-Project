@@ -1,0 +1,15 @@
+minimum support count is 3 --> 50%
+minimum confidence is 60%
+
+Generate Association Rules
+0) {I1, I2, I5, } ---> Count = 2
+{I5}
+Confidence = 100
+{I1, I5, }
+Confidence = 100
+{I2, I5, }
+Confidence = 100
+
+1) {I1, I2, I3, } ---> Count = 2
+
+https://www.geeksforgeeks.org/apriori-algorithm/

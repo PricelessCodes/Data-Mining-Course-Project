@@ -1,0 +1,22 @@
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csprojAssemblyReference.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association_Rules_Algorithm.Form1.resources
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association_Rules_Algorithm.Properties.Resources.resources
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.GenerateResource.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.CoreCompileInputs.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.exe.config
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.exe
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.pdb
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.exe
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.pdb
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.ResolveComReference.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.exe.config
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.exe
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\bin\Debug\Association Rules Algorithm.pdb
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csprojAssemblyReference.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.ResolveComReference.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association_Rules_Algorithm.Form1.resources
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association_Rules_Algorithm.Properties.Resources.resources
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.GenerateResource.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.csproj.CoreCompileInputs.cache
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.exe
+F:\Educational Materials\Computer Science\CS Semester 8\DM\Project\(173269-172229)Association Rules Algorithm Project\Association Rules Algorithm\obj\Debug\Association Rules Algorithm.pdb

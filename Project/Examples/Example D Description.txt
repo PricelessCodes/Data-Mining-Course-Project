@@ -1,0 +1,25 @@
+Lets say minimum support count is 3 ---> 60%
+Relation hold is maximal frequent => closed => frequent
+1-frequent:
+{A} = 3; // not closed due to {A, C} and not maximal
+{B} = 4; // not closed due to {B, D} and no maximal
+{C} = 4; // not closed due to {C, D} not maximal
+{D} = 5; // closed item-set since not immediate super-set has same count. Not maximal
+
+2-frequent:
+{A, B} = 2 // not frequent because support count < minimum support count so ignore
+{A, C} = 3 // not closed due to {A, C, D}
+{A, D} = 3 // not closed due to {A, C, D}
+{B, C} = 3 // not closed due to {B, C, D}
+{B, D} = 4 // closed but not maximal due to {B, C, D}
+{C, D} = 4 // closed but not maximal due to {B, C, D}
+
+3-frequent:
+{A, B, C} = 2 // ignore not frequent because support count < minimum support count
+{A, B, D} = 2 // ignore not frequent because support count < minimum support count
+{A, C, D} = 3 // maximal frequent
+{B, C, D} = 3 // maximal frequent
+
+4-frequent:
+{A, B, C, D} = 2 //ignore not frequent
+</
